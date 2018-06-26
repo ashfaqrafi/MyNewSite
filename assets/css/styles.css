@@ -573,3 +573,19 @@ iframe {
 .mr3{
   margin-right: 3rem;
 }
+
+.mybadge{
+  background: #F44336;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+.pbadge{
+  background: #FFEB3B;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
